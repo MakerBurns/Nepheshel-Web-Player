@@ -5,6 +5,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>EasyRPG Player</title>
+  <script>
+    const gamename = 'Nepheshel';
+    window.onload = function () {
+      if (!window.location.search.includes('game=' + gamename)) {
+        var newUrl = window.location.href + (window.location.href.includes('?') ? '&' : '?') + 'game=' + gamename;
+        window.history.replaceState({}, '', newUrl);
+      }
+    };
+  </script>
   <style>
     :root {
       --color-gray: hsl(0, 0%, 55%);
@@ -235,7 +244,7 @@
     const closeButton = modal.querySelector('.close');
     const controlsText = document.getElementById('controlsText');
 
-    var controls="";
+    var controls = "";
     fetch('controls.txt')
       .then(response => response.text())
       .then(text => {
