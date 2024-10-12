@@ -1,0 +1,626 @@
+○○○○○○○○○○○○○○○○○○○○○○
+Nepheshel Manual
+Ver 2.03.03-E 11/23/2023
+○○○○○○○○○○○○○○○○○○○○○○
+
+----------------------------------------
+● About Nepheshel
+
+You find yourself in a bed as you finally regain consciousness.
+A girl standing next to the bed you're in is relieved to see you awaken.
+She introduces herself as Iris. She runs a pharmacy on the island.
+She's tended to your wounds ever since she found you unconscious by the shore.
+Your memory is foggy, however. You can't recall why you're here, or what you should be doing...
+
+Inside the bag you had on you, your only possessions are an unusually shaped crystal, a dagger,
+and a mysterious book. The contents of the book leave you with more questions than answers:
+
+"Deep within the Confined Isle in the depths of the Ebony Labyrinth, 
+sleeps something so wondrous that people must not disturb it."
+
+On the island lie many paths, sprawling like an enormous maze, each one laden with mystery.
+Barely remembering your name, you embark on a journey to find the answers you're looking for...
+
+How you came here, your purpose, the mystery of the Ebony Labyrinth...
+And most especially; whatever it is that sleeps in the depths of the island.
+
+All of it can only be ascertained by your power alone.
+
+- About the Island
+The island is commonly referred to by its inhabitants as "The Confined Isle".
+It is said that a powerful curse plagues the island, causing all who enter or leave it to completely
+lose their memories.
+Furthermore, the island's position appears to constantly change. Seasons are irregular,
+and the islands on the horizon appear and disappear as time slowly marches on...
+
+Because of that, leaving or entering the island is no easy feat.
+Small settlements with people exist, but their memories of the olden days have long faded away.
+It appears that those who could not escape the island's clutches have chosen to settle down...
+
+- About Djinn
+In the old days of the island, many powerful entities rested on the island.
+They are called "Djinn". The Hero can make some of them his ally to aid him on his journey.
+Djinn are sealed within distinct-looking jars, but if one is to open such a jar and lack the
+required strength to make a contract with them, the one who opened it may risk their very lives.
+
+Back in ancient times, many greedy adventurers recklessly opened countless Djinn jars,
+believing them to be full of treasure. Because of this, there are many hostile Djinn 
+on the island who attack and threaten the lives of its inhabitants even to this day.
+Djinn are connected to their jars, but they are immortal, and have powers beyond that of man.
+Because of their almighty powers, the people trembled in terror whenever a Djinn was summoned
+and saw them as no different from monsters, but their exact distinction with them is unclear.
+
+
+This game is a dungeon-crawler RPG.
+However, the dungeons are intricate with some having connections underground. In order to fully 
+explore or even access some of the dungeons, you may need to go through another dungeon first.
+
+The game has no one-way path that the player is locked on.
+There is hardly anything restricting the player's actions and where they wish to go.
+
+You have a very high amount of freedom.
+Since every enemy is visible on the field, it's possible to 
+avoid fighting a strong enemy by simply dashing past them.
+This makes getting through even the most dangerous dungeons a cakewalk.
+But if you get cornered, you'll be lucky to escape with your life...
+
+Use your power to the fullest, and do all that you can to find the truth.
+
+----------------------------------------
+★Copyright & Usage Notes★
+
+Nepheshel is freeware software.
+Copyright belongs to Studio Til and its staff.
+Commercial distribution of this software without permission of the authors is strictly prohibited.
+Additionally, the authors are not responsible for any kind of damages caused by using this software.
+Support and version updates are optional and are not the responsibilities of the authors.
+
+Extraction of any software materials for secondary use or distribution is strictly prohibited
+without the express permission of the original authors. (Most especially for commercial use)
+However, screenshots of the game are permitted for use on free walkthrough / guide pages.
+
+Gameplay videos are permitted as well, which can be posted and distributed via Nico Nico Douga,
+Facebook, Instagram, Mildom, Twitch, Twitter, YouTube, or other video sharing websites.
+Uploaders are permitted to monetize using the official systems of the websites listed above.
+However, any other commercial use is strictly prohibited.
+
+Additionally, if the ending is shown on either guide pages or gameplay videos, please ensure
+that it is marked as containing spoilers so that players who do not wish to see spoilers
+can avoid being exposed to them unknowingly.
+
+Studio Til's Secondary Usage Guidelines (Japanese):
+http://til.sakura.ne.jp/rule2.html
+
+----------------------------------------
+★Contact Information★
+
+Studio Til's Home Page:
+ http://til.sakura.ne.jp/
+
+gezigezi (Executive Producer):
+ https://twitter.com/_gezigezi_
+ nepheshel5963@gmail.com
+
+Yoshiki Ara (Music)
+ https://twitter.com/carrotwine_
+ https://earthtear2149.wixsite.com/carrotwine
+ 
+Vittone (English translator + technical support):
+ https://twitter.com/vittoneszone
+ vittoneszone@gmail.com
+
+----------------------------------------
+★Minimum System Requirements★
+
+OS: Windows 95/98/Me/2000/XP
+
+CPU: High Speed CPU (550Mhz or higher recommended)
+HDD: 25 MB
+Sound: Uses Midi / PCM
+DirectX 7.0 or higher should be installed
+RPG Maker 2000 Runtime Package installed
+
+★Starting the Game★
+
+Run "StartGame" in the main folder.
+You can choose to begin in either Fullscreen or Windowed mode.
+
+----------------------------------------★Game Controls★
+
+Up Arrow		: Move character or cursor up
+Down Arrow		: Move character or cursor down
+Left Arrow		: Move character or cursor left
+Right Arrow	: Move character or cursor right
+(You can also use the numpad to move)
+ 
+Z/Enter/Spacebar : Decide, Examine, Check Floors/Walls
+X/Escape		  : Open/Close Menu, Cancel
+F4				  : Toggle Fullscreen / Windowed Mode
+F5				  : Change window size in Windowed Mode
+F12			  : Reset game and return to Title Screen
+Alt+F4			  : Shut down the game and close its window
+
+----------------------------------------★Game Info★
+
+- About "Gates"
+
+In Nepheshel, there are monoliths scattered round about The Confined Isle
+known as "Gates". You can save your progress at Gates.
+However, most Gates will not be active when you first find them.
+You need to find and insert a "Gate Crystal" into its indent to activate them.
+
+The Hero will already have a Gate Crystal in his possession at the start of the game.
+We highly recommend you put it to good use by inserting it into the Gate near the town's entrance.
+ 
+With Gates, you can instantly travel to another Gate you've activated by entering 
+The Gate Dimension. It's a highly effective way of traveling and going to where you want quickly.
+Gate Crystals can also be removed even after they're set, so you can carry one with you if you
+don't want to deal with the hassle of having to find another.
+Just remember, if you take a Gate Crystal out of a Gate's indent, the portal to that Gate won't
+appear in the Gate Dimension until it's active again.
+
+- About Levels
+
+The Level Cap in Nepheshel is Level 50.
+Try to make the most of stat-enhancing items.
+----------------------------------------
+- About Status Ailments
+
+Some enemy attacks can change your status, and
+afflict you with some highly undesirable effects.
+All the ailments you could get afflicted with
+in Nepheshel are listed below:
+
+COMATOSE (CANNOT BATTLE):
+
+If an ally's HP falls to 0, they'll fall unconscious and can no longer fight in battle.
+If all party members fall unconscious, then it's Game Over!
+
+POISON:
+
+A set amount of HP is lost for each passing turn.
+The good news about poison is that it won't outright
+knock you out, always leaving you with at least 1 HP.
+The bad news is that it also comes in 5 intensities. 
+The weakest will only deal 5 points of damage, while
+the strongest will inflict a whopping 80 points!
+Even worse, stronger intensities will halve your Speed and Offense!
+ 
+The letter shown next to poison when afflicted gauges its intensity.
+The 5 intensities and their corresponding letters are listed below:
+ 
+X = LETHAL
+A = SEVERE
+B = POTENT
+C = REGULAR
+D = WEAK
+
+PARALYSIS:
+
+Afflicted party members cannot move at all when paralyzed.
+This also halves their Defense.
+
+FEAR:
+
+Anyone afflicted with this ailment will go into a high-strung state of panic.
+Due to being in such an agitated state, this will halve Offense, Accuracy and Mindpower.
+This also prevents party members from using magic.
+If you can't cure it right away, defending until it wears off is a good strategy.
+
+CONFUSION:
+
+Those afflicted will fail to discern friend from foe, 
+and will attack themselves or allies in their confusion.
+
+FURY:
+
+Driven by anger, afflicted allies will strike the enemy with only their basic attack.
+Accuracy, Defense and Mindpower are halved due to this.
+
+SLEEP:
+
+Those afflicted fall into a deep sleep and cannot perform any actions.
+While on the snooze cruise, Offense, Defense and Mindpower are halved.
+There's a very high chance you'll wake up if you get hit.
+
+BLIND:
+
+Being blinded makes you barely able to see, halving your Accuracy.
+
+STIGMA:
+
+Getting stigmatized corrupts the auras of those afflicted, 
+making them completely incapable of casting any magic.
+
+TUMBLE:
+
+You lost your footing and got knocked down to the ground.
+Tumbled members can't perform any actions, and need 1 turn to get back on their feet.
+When you take a tumble, your Defense is halved.
+Unlike other ailments, there's no way to cure tumbled allies early... Or is there?
+
+All ailments occur exclusively in-battle. If you win a battle and are afflicted with any ailment, 
+you'll instantly be cured of it when you return to the field.
+The only exception is if The Hero is Comatose. Memento mori.
+ 
+---------------------------------------
+- Regarding Automatic Recovery
+
+In Nepheshel, all party members gradually regain HP while walking.
+Should an ally Djinn be KO'd, they'll automatically revive as you walk on the field.
+Unfortunately the Hero (aka you), being an ordinary human, does not have said luxury.
+Djinn can also regain a little MP if you dismiss them back to their jars for a while.
+
+---------------------------------------★Strategy Tips★
+
+1. Get as much info as you can!
+Start by heading on over to the pub in town, and listen to what the pubkeeper and patrons have to say.
+The patrons in the pub seem to come and go throughout the game...
+
+2. You + Preparation = Little to No Worries
+Definitely carry more Medical Herbs than you can chew.
+There's no harm done in carrying a surplus of medical supplies.
+If you do happen to run low though, some foodstuffs may provide remedies to certain ailments...
+
+3. Fleeing is Winning!* (* Results may vary)
+Since all enemies are displayed on the field with no random encounters, 
+you can simply sneak past them if you're not in the mood for fighting.
+In addition, you're able to flee from nearly every boss battle, so don't feel too discouraged
+if you feel the need to retreat from a battle that's not going in your favor.
+Your chance of successfully fleeing is calculated by comparing the Speed of both you and your enemies.
+Of course, this means that trying to flee from faster enemies will be considerably more difficult...
+
+4. Hunt for Hidden Rooms!
+While you're busy running away from that outrageously strong enemy that
+nearly wiped the floor with you, why not search for some hidden rooms?
+There are a lot of hidden rooms throughout Nepheshel.
+And the kicker is that there's often a bunch of rare and strong equipment in them!
+If you can snag such equipment, you'll be able to mitigate the difference of your Level somewhat.
+ 
+Whether or not you can find these rooms will greatly affect how difficult the game will be for you.
+Hidden passages to these rooms are often found on the upper and lower walls, but they can also
+be found on the floor occasionally.
+
+5. Can't Slash It? Bash It!
+There are 3 primary weapon types in the game, they are Cut, Jab, and Blunt.
+You can easily check what type a weapon is by the letters next to their name.
+Here's a quick guide:
+ [C] = Cut
+ [J] = Jab
+ [B] = Blunt
+If there's a [2] before the letters, then the weapon is two-handed.
+Two-handed weapons are usually more powerful, but shields can't be equipped alongside them.
+Some enemies may be resistant or completely immune to certain types of physical injury,
+so if you're not dealing that much damage, consider using a different kind of weapon.
+
+6. Anti-Magic 101
+How much damage you, your allies and enemies take from magic is based on 
+their level of Magic Resistance. There are a total of 5 resistance levels:
+ 
+Very Weak	:	Takes double the amount of damage
+Weak		:	Takes 1.5 times the amount of damage
+Regular		:	Takes normal amount of damage
+Resistant	:	Takes half the amount of damage
+Immune		:	Takes little to absolutely no damage
+ 
+The Hero starts off with a regular resistance to all magic, but by wearing armor,
+charms, and using certain items and spells, you can improve your resistance
+against certain types of magic by up to 2 levels. Play your cards right, and
+you can become nearly impervious against many kinds of spells.
+
+----------------------------------------★Troubleshooting★
+
+- I can't hear any MIDIs!
+
+	Your sound source is probably being used by a different program.
+	Be sure not to use any playback software when playing, and try again.
+	
+- The music is playing slowly for some reason!
+
+	Go into battle or enter a different dungeon.
+
+- The game crashed on me and said it cannot open file "People1"! What happened?
+
+	This occurred because RPG Maker 2000 Runtime Package (RTP) is not installed on your computer.
+	You must have the RPG Maker 2000 Runtime Package installed in order to play this game.
+	It can be downloaded from here:
+	https://www.rpgmakerweb.com/run-time-package
+	
+----------------------------------------★Miscellaneous Notes★
+
+- Enemies in the Abandoned Mines may be able to attack you from cliff ledges.
+- The number of Herb Bundles you buy amounts to 10 Herbs for each 1 purchased.
+- When you buy Herb Bundles, you will be refunded the amount you can't carry.
+
+----------------------------------------★Special Thanks★
+
+The authors would like to express their gratitude
+to REFMAP, who provides free materials for RPG Maker.
+
+The authors would also like to thank the following
+individuals for their cooperation during debug testing:
+
+A/J
+AKAHORI
+Aogiri Taiki
+DICE
+Kazami
+KAZUKI
+Rune
+
+They would also like to thank Haruka Shimotsuki 
+for singing the two image songs.
+
+----------------------------------------★Changelog★
+
+6/3/2002
+Nepheshel Ver 1.00 is officially released
+
+6/4/2002
+Nepheshel Ver 1.01
+
+* Updated descriptions for the final dungeon in the Gate Dimension
+* Updated maps and chipsets for the Underground Passage and Coastline Grotto
+* Adjusted stats of Erinys and Unicorn enemies
+* Revised the contents of the tablets in the final dungeon
+* Adjusted stats of other enemies
+
+6/5/2002
+Nepheshel Ver 1.02
+
+* Fixed a problem that required RTP in Ver 1.01
+* Updated the total amount of chests in the Coastline Grotto,
+Abandoned Mines, The Byway, and the final dungeon
+* Adjusted stats of the Giant enemies
+* Updated the description of the Moon Amulet
+* Modified weapon types for the Mace and Morning Star
+* Fixed an error in which some chests lacked collection flags
+* Fixed an error in a certain operation which allowed unremovable equipment to be removed
+
+6/8/2002
+Nepheshel Ver1.03b
+
+* Changed the dialogue of NPCs in the Ancient Castle
+* Updated field map chips
+* Corrected the description for Smoke Orbs at the Exchange Boutique
+* Changed the stock of Eternity Drops at the Exchange Boutique
+* Modified elemental types for Kirikaze and Crystal Blade weapons
+* Updated a cutscene in the final dungeon
+* Changed some enemy attack sounds that sounded odd
+* Added some information on super important items at the bar. Why are we being so kind?
+* Corrected some miscounts in the total treasure chest yield tally
+* Moved a certain tablet in the Ancient Castle elsewhere. Its former position was misleading
+* Changed music data to GM-compatible. Maybe this will improve music stability?
+
+(We had reports of unstability when a MIDI with an RS-232C connection is used,
+but that appears to be more of a bug on Maker's side)
+(We also got reports of unstability when VSC-88 is used to play songs)
+
+6/9/2002
+Nepheshel Ver1.04
+
+* Fixed a bug that caused freezing when an enemy was standing on a one-way trap (Major fix)
+* Fixed a bug that caused the equipped armor of a certain party member to vanish when ?????
+was used (Major fix)
+* Fixed a bug where you could walk through areas you're not supposed to walk through in The Temple
+* Corrected more miscounts in the total treasure chest yield tally
+* Replaced the song data because for some reason a phenomenon caused the opening theme to go full piano
+* Modified the price of Fur Robes at the Exchange Boutique
+* Just realized we had a few letter "e"'s missing in Nepheshel's title screen spelling (Oops!)
+
+(Got reports of a rare glitch that causes music to pause and causes save data corruption if the
+game is saved when this occurs. It's probably due to a bug in RPG Maker itself...)
+
+6/12/2002
+Nepheshel Ver1.05b (Unpublished)
+
+* Was stability improved by replacing all the song data? Prepared SC8850/8820 compatible data
+* A certain mystery became easier to solve... By 1 dot
+* Fixed an oversight where you could walk over pits in The Temple
+* Corrected some various typos
+* Fixed an oversight where Wights would drop Mithril Chunks. They now drop Ancient Coins
+* Slightly improved the effects of the Greedy Ring, but it still might not be that useful...
+* Are rumors of a mass outbreak of ???? really true?
+
+6/13/2002
+Nepheshel Ver1.06b
+
+* Fixed a few cutscene bugs
+* Fixed some more typos
+* Increased the number of areas where ???? can appear
+
+6/15/2002
+Nepheshel Ver1.07
+
+* Corrected some errors with chip layouts
+* Fixed an error that caused parts of a song to be interrupted during a certain cutscene
+* Updated a certain cutscene considerably. Is it a bit easier to understand it now?
+
+6/18/2002
+Nepheshel Ver1.08
+
+* Fixed looping errors in a few songs
+* Corrected attribute display inconsistencies of some items
+
+6/22/2002
+Nepheshel Ver1.09
+
+* Fixed a bug which caused a Game Over when certain allies were unconscious after boss battles (Major fix)
+* Corrected attribute display inconsistencies of some equipment
+* Fixed a problem where Iris reappears when she's not supposed to after certain conditions are met
+
+6/29/2002
+Nepheshel Ver1.10
+
+* Changed stats of the Reflect Force. Also fixed a bug which caused Maker to mess up when it was equipped.
+* Modified the descriptions of items that block critical hits
+* Fixed a few typos in battle messages
+
+7/6/2002
+Nepheshel Ver1.11
+
+* Fixed even more typos
+* Fixed an oversight where the item get fanfare didn't play in a certain spot
+
+7/27/2002
+Nepheshel Ver1.12
+
+* Fixed an oversight which caused you to freeze 1 step from where Juno was after meeting her (Major fix)
+* Fixed a minor miscount in which a treasure chest in The Temple wasn't included in the tally
+* Edited poison resistance stats of certain enemies, skills, and a certain item
+* Fixed a bug where Hati and Vincent gained immortality and would never die
+* Fixed a bug where the player sprite wouldn't change even if unconscious after fighting Adonaios
+* Fixed some songs not looping
+
+8/3/2002
+Nepheshel Ver1.13
+
+* Fixed an oversight which caused Hati to come back from the dead when the final dungeon was entered
+* Edited messages for a certain item Deeva can use if she's unable to use a certain skill
+* Fixed a bug which caused Falr's Jar to not be visible when it wasn't opened or Lit was unconscious
+* Corrected some typos in the description of the True Silver Pelt item
+
+9/1/2002
+Nepheshel Ver1.14b
+
+* Tilala's ????? gained a resistance to light
+* A very deadly red enemy now telegraphs their intentions before launching a barrage of thrusts
+* Fixed a bug with the choices at Loo's Shop
+* Corrected more chip layout errors
+
+2/23/2003
+Nepheshel Ver2.00
+
+* Added a function which internally records the data from major boss battles
+
+2/26/2003
+Nepheshel Ver2.01
+
+* Updated chipset for the Coastline Grotto
+	(Some couldn't be edited and were left untouched)
+* Corrected some messages in the Abandoned Mines
+* Fixed a map link error with the King's Crypt
+* Significantly expanded how data is internally recorded from major boss battles
+	(Bear in mind such data cannot be viewed in-game)
+
+2/28/2003
+Nepheshel Ver2.02
+
+* Fixed a bug in which some recorded data was incorrect
+
+3/1/2003
+Nepheshel Ver2.03
+
+* Edited some documentation, etc.
+
+10/15/2022
+Nepheshel Ver2.03.01-E
+
+* Fixed a nasty bug that caused save data to be corrupted by music pauses (Major fix)
+	(Special thanks to スワンマン∞ @lynatan for their MemoryStream patch addressing this issue)
+* Slightly moved staff titles in the opening to make Tilala's smile visible 
+* Slightly lengthened how long key item fanfares play for
+* Changed the music that plays for some bosses
+* Changed the text color of a certain ailment
+* Ailments that prevent movement are given priority notice
+* Djinn now need at least 15 MP to ?????
+* Djinn now lose 15 MP each turn during their ????? (This amount used to be 10 MP)
+* A warning message is now displayed when during a Djinn's ????? if their MP hits 30 or less
+* Made minor adjustments to Djinn Summon and Dismiss scripts
+* The faces of Djinn are now displayed when their ????? level is increased
+* Tilala's face is now shown when speaking to her at her Villa
+* Fixed an oversight that prevented players from investigating the fake coffin in the King's Crypt
+* Fixed the key item fanfare not playing when opening the real coffin in the King's Crypt from other sides
+* Activation switches for the trap in the Underground Passage now vanish once stepped on
+* Fixed an issue that caused an enemy in the Subterrane Canals to vanish due to an incorrect switch
+* Fixed an issue where Gregg's death dialogue did not function properly
+* Adjusted animations of all doors, along with their sound timings
+* The barrel in Falr's house now moves automatically upon being interacted with
+* Energy flows through players upon obtaining a certain, powerful item
+* Changed the fanfare that plays when a certain, powerful item is obtained
+* Activation switches for the trap in ???????????? now vanish once stepped on
+* A certain story event now won't occur if the protagonist is unconscious...
+* Levers in the final dungeon will no longer move after being interacted with
+* Fixed brightness errors with ???? in the Fifth Stratum of the final dungeon
+* Fixed an inconsistency with one of the tripwires in the Fifth Stratum of the final dungeon
+* A brief cutscene now occurs when a lever in the Sixth Stratum of the final dungeon is pulled
+* A new cutscene occurs near the end of the game if certain conditions are met.....
+* A new cutscene takes place the first time players visit the Exchange Boutique
+* Players will now find something special in their bedroom after clearing the game...
+* Changed the sound that plays when Falr activates her ?????
+* Djinn recruitment cutscenes have been slightly edited
+* Adjusted animations for Djinn jars when they are summoned or dismissed from the bedroom
+* Made the west side of the Confined Isle a little wider
+* Fixed overlap issues with some tiles in the Abandoned Mines
+* Gave the ?????? chamber in ???????????? some minor renovations
+* Removed a hidden passage in the Second Stratum of the final dungeon that was obvious from the start
+* Gave the maze in the Second Stratum of the final dungeon an extreme makeover
+* Changed the position of the chest containing the Abyss Breathe
+* Changed the position of the chest containing the Sage's Ring
+* Gave a hidden room in the Fifth Stratum of the final dungeon a slight makeover
+* Changed the location of a hidden passage in the Fifth Stratum in the final dungeon
+* Fixed graphic inconsistencies with the levers in the Ancient Castle
+* Slightly edited Gregg's sprite when he's on the verge of death
+* Slightly edited the entrance to The Byway
+* Changed the floor traps in ????????????
+* Changed the route Faceless takes in ????????????
+* There are now two red Sentinels in ????????????
+* Fixed player sprites overlapping on a stairway in ????????????
+* Most bosses in ????????????? now turn towards the player
+* Slightly repositioned Adonaios, and slightly edited the background
+* Fixed graphic inconsistencies with levers in the final dungeon
+* Added a second bridge in the Fourth Stratum of the final dungeon
+* Removed a stray pixel from Typhon's sprite
+* Slightly recolored Falr's sprites for when she pops out of her jar
+* Recolored the overworld sprites of two bosses (Sanctity & Virtue)
+* Slightly edited Falr's sprites in bed
+* Edited how certain sprites move before battle with three certain bosses
+* Gave the spell Hadom a new sound sequence
+* The skill Evoker no longer causes poisoning
+* The skill Blue Omen no longer causes poisoning
+* Aykhal, a formerly unused spell, is now used by a few enemies
+	(Its success rate was also raised from 80 to 100)
+* Raised Hadom's base value from 200 to 230
+* The spell Yunarsha no longer cures blindness
+* The spell Risah had its success rate raised from 75 to 100, but its base value was reduced from 200 to 150
+* Moved the editor numbers of certain battle-only items so players won't have to scroll as far to find them
+* Slightly raised the critical hit rate of a certain, special weapon
+* Improved the effects of the Greedy Ring
+* Raised the Defense of the Cleric Robes from 25 to 30
+* Raised the Mindpower of the Cleric Robes from 5 to 10
+* The Spirit Barrier now fully prevents confusion and fury, instead of resisting fury and fear by 50%
+* Moved the Dragon King's Scale from the Seventh Stratum to the Sixth Stratum of the final dungeon
+* Fixed an oversight that made Falr's ????? resist jabs
+* Fixed an oversight that made Falr's ????? immune to cuts
+* Mentioned how Tilala's ????? is immune to critical hits in her introduction
+	(Oddly, it wasn't mentioned in the original version)
+* The Spear of Light attack used by Tilala's ????? no longer consumes 5MP for its regular attack
+* Moved the Rune Circlet to a chest in the Ancient Castle
+* The Main Gauche can now be obtained in a chest in the Coastline Grotto
+* Replaced the contents of a chest in the First Stratum of the final dungeon from Nectar to a Flash Orb
+* Most recovery items no longer cure an additional 10% HP, now healing by exact amounts only
+* Divine Incenses can no longer cure paralysis, but they can now cure sleep
+* Reduced the number of times a Power Orb can be used from 5 to 3
+* All bats no longer drop Cleric Robes
+* Slightly adjusted the stats of multiple enemies
+* Gave a rare enemy a brand new attack
+* There is now one red enemy in each stratum of the final dungeon (with one exception)
+* Adjusted the stats and resistances of some bosses
+* Slightly reduced the XP yields of some bosses
+
+10/18/2022
+Nepheshel Ver2.03.02-E
+
+* Corrected a few minor typos
+* Made minor grammatical changes to a few books in the library
+* Edited some documentation, etc.
+
+11/23/2023
+Nepheshel Ver 2.03.03-E 
+
+* Corrected even more minor typos
+* Fixed an issue with Faceless where falling into a pitfall directly above him stopped your fall,
+causing a softlock
+* Made a few tile fixes to a few rooms in the Subterrane Canals
+* Edited Shea's dialogue slightly
+* Removed a few brief pauses in some NPC dialogue
