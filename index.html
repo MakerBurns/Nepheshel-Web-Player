@@ -9,7 +9,7 @@
     const gamename = 'Nepheshel';
     window.onload = function () {
       if (!window.location.search.includes('game=' + gamename)) {
-        var newUrl = window.location.href + (window.location.href.includes('?') ? '&' : '?') + 'game=' + gamename;
+        var newUrl = window.location.href.split('?')[0] + '?game=' + gamename;
         window.history.replaceState({}, '', newUrl);
       }
     };
